@@ -1,11 +1,11 @@
 <html>
 <head>
 </head>
-<link rel="stylesheet" href="https://twaunggg.github.io/MiniKaraoke/style.css">
+<link rel="stylesheet" href="style.css">
 <body>
 <ul>
  <a href="saihteesai.html"><li><span>စိုင်းထီးဆိုင်</span></li></a>
- <a hred="mariza.html"> <li><span>မာရဇ္ဇ</span></li></a>
+ <a href="mariza.html"> <li><span>မာရဇ္ဇ</span></li></a>
   <li><span>ဗဒင်</span></li>
   <li><span>ထူးအိမ်သင်</span></li>
 <li><span>အာဇာနည်</span></li>
