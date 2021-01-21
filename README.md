@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="https://twaunggg.github.io/MiniKaraoke/style.css">
 <body>
 <ul>
  <a href="saihteesai.html"><li><span>စိုင်းထီးဆိုင်</span></li></a>
